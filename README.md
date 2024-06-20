@@ -25,9 +25,9 @@ No additional configuration is needed. Make sure MPI is correctly installed and 
 **Usage Example**
 To compute the number of distinct elements in a 10,000 x 10,000 table using 4 processes:
 
-mpiexec -n 4 ./mpi_mult_table 10000
+mpiexec -n 4 ./mpi_mult_table 10000       
 Contributing
-Contributions to this project are welcome. Please send pull requests or issue reports via GitHub.
+Contributions to this project are welcome. Please send pull requests or issue reports via GitHub or email me at path7107@mylaurier.ca
 
 **License**
 This project is open source and available under the MIT License.
